@@ -1,0 +1,25 @@
+# Audacity
+
+- Project Sample rate: 44100 -> 96000
+- Audio Driver
+- microphone for recorder.
+- channel: standard microphone: mono. If there is music deviced attached to laptop then stereo.
+- playback device: speaker.
+- loudness of voice vs time 
+- voice get clipped if voice level is set to extreme like 0 on microphone. 
+- setting these levels at benning is good practice.
+- dont start speaking immediately after pressing start.
+- if you go near to mic or away from mic then volume level will change.
+- hotkey p for pause 
+- selction tool 
+- highlight - to play certain section of audio track 
+- start/end navigation button 
+- playback and selection tools were seen 
+- with multiple channel on.
+- lowering the gain or volume 
+- evelop tool 
+- time-shift tool to shift time between two tracks 
+- leveling voice with envelop tool / volume+compression -> amplify 
+- effect-> volume and compressiong -> auto duck 
+- effect- fadeout 
+- effect- compressor 
