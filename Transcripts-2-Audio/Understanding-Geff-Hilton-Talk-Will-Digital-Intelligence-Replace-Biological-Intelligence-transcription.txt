@@ -1,0 +1,403 @@
+This is the youtube transacription of talk.
+
+https://www.youtube.com/watch?v=Es6yuMlyfPw&t=1528s
+Geoff Hinton - Will Digital Intelligence Replace Biological Intelligence? | Vector's Remarkable 2024
+
+------
+Transcript
+
+
+Search in video
+Introduction
+so um I have a much briefer introduction to me that was given by Andy Barto when
+I gave a talk at amher in the 1980s um Andy's a friend of mine and he
+said today our speak is Jeff Hinton Jeff dropped out of physics failed psychology
+and finally made a name for himself in a field with no standards at all um also you've heard my name a lot
+in the last few days um that's because I managed to recruit about 40 incredible graduate students and so all the work
+that I got famous for almost all the work that I got famous for was done by The Graduate students um they included
+people like Ilia sskk and Graham Taylor and Rich zel and Brendan fry and Jimmy
+bar and lot and Radford Neil and lots lots more um basically the trick of being
+successful in research is to get yourself really good graduate students okay
+um I'm going to give a talk today that's very similar to the talk I gave in the fall um so I won't be at all um annoyed
+if you decide to take a walk um I'm very worried about um whether
+we're here to stay on this planet um so that's what I'm going to talk about it
+it occurs to me that back like 20 years ago people um weren't interested in your
+Nets and now they're not nearly scared enough of them um
+so just to say how uninterested people were in neonet in
+2006 Russ salak kudenov and I submitted quite a nice paper to nips about deep
+learning and um other things an application of deep
+learning and he got rejected and I complained to the program committee and the program committee explained to me a
+friend of mine on the program committee explained to me um there was a discussion of this paper but they felt
+they couldn't accept it because they had already accepted a different paper on deep learning and they having two papers on
+deep learning seemed too many for one conference okay but that's true I mean
+it's amazing okay so this talk I'm going to talk
+about two very different ways to do computation and I'm trying to explain to you why I suddenly got so scared about
+AI then I'm going to talk about large language models and whether they really understand what they're saying there's a
+lot of people think they don't actually understand what they're saying and those people are wrong
+um and I'll talk a bit about what's going to happen when they get smarter than us although nobody has any idea
+really what's going to happen um and I'm going to end up by talking about whether they have subjective experience because
+I think a lot of people probably most people in this room still believe there's a big difference between these
+things and us we're kind of conscious we have subjective experience these things are just they're in a computer they
+don't have subjective experience I think that's completely wrong and that depends on a misunderstanding of what subjective experience
+is okay so um we're all used to digital
+computation and because it's digital you can run the same program on different
+computers different pieces of hardware so when the hardware dies the knowledge doesn't die because it can be as long as
+you stored the weight somewhere or the program um but it's extremely inefficient so
+Digital vs. Analog Computation
+when when you run a large language model um you're using a lot of power when you
+train it you're probably using megawatts because you're running it on lots of different gpus we run on like 30 Watts
+so incredibly much more power efficient and I spent my last two years at Google trying to think how you could get analog
+neural networks to do things like large language models
+um so the idea was give up on all the advantages of digital computation that you can separate Hardware from software
+um and because we've got learning now and we know how to make things learn then
+what we're going to do is have analog Hardware every piece of Hardware is going to be a bit different from every
+other piece of hardware and those nonlinear properties of the hardware are going to be used in the computation so
+you couldn't possibly program it but it can learn to make use of the nonlinearities it's got and that's what
+the brain does um and so you end up with what I call mortal
+computation so you're going to abandon the kind of immortality of the knowledge that you get with digital
+computation you can use very low power also the hardware you can probably grow
+cheaply rather than have the hardware be manufactured incredibly expensively and Incredibly
+precisely because two different bits of Hardware need to do exactly the same thing at the level of the
+instructions my guess is to make this manufacturer of the hardware
+efficient it might be better to go back to biology and just use modern Gene tempering techniques to turn neurons
+into the kinds of computation elements you want biology has put a lot of effort into that the problem with that is is um
+you get a little collection of collection of 50,000 neurons which is not much bigger than a pin
+head and if you look at people who are using collections of neurons like that
+to do little bits of computation there's a whole room of apparatus to keep the
+little pin head of neurons um alive you have to put in the right liquids and take out the right liquids and you have
+to get rid of the carbon dioxide and put in oxygen I visited a lab in Santa Cruz and as I left having played a game of
+pong with one of these collections of human brain neurons um a postart ran up
+and said I think I figured out how to make a kidney and that's what you don't want to
+have to think about um there's big advantages of
+using analog computation if you want to have low power so you can do make matx multiplies very easily you just make um
+the activity of neurons be voltages the weights between neurons be conductances and a voltage times a conductance per
+unit time is a charge and charges add themselves up so there you go you've got a matrix multiply with extremely low
+power and you can buy chips like that now um the problem is when you want to do anything with them um you have to
+convert the analog outputs back into digital numbers to run things like back propagation and so I was very concerned
+with how could we avoid ever doing that conversion the brain maybe does analog
+to digital conversion but it's one bit it's multi-bit analog digital conversion that's
+expensive um obviously are some big problems um if you think about how back
+propagation works you have an exact model of the forward computation and that's why you can do back propagation
+in this analog Hardware the system itself won't have a good model of its properties is and so it seems very hard
+to do back propagation and lots of people have got little versions of back propagation working in vaguely
+brain-like things um but nobody can make it scale up people can make it work on
+c510 but they can't make it work on image net I know image net is now not not a big scale problem but back in the
+days when I was doing this it was we can get Knowledge from one piece
+of analog hardw to another in just the way we do it um so the way we get Knowledge from one of our brains to
+another of our brains is you say stuff the teacher says stuff and the student
+tries to figure out how to change the weights in their brain so that they would have said the same stuff um that's
+called distillation you're trying to match the outputs it's actually quite efficient when you do it moderately efficient when
+you do it in computers when you get to see the whole probability distribution of the output so when I'm about to say a
+word word there's a distribution over thousands thousands and thousands of
+words and if I could see that distribution I could learn much you could learn much faster from me often
+the second best word tells you a lot about what the person thinks um but you
+can't see that you just see the word they produced and so it's not a very efficient technique um it's so
+inefficient that we have to have universities to try and make it work better um but it still doesn't work very
+well compared with what these digital things can do which is if you have many
+cop oh instantly the distillation was introduced in order to get Knowledge from one digital system to a digital
+neural net that had different architecture a smaller one for example that would run on a cell
+phone um but it's and it's but it's not very efficient the really efficient way to transfer knowledge is to have two
+different copies of the same model [Music]
+and each copy goes and gets different experience and then the two copies um
+share the gradient updates they could go for a little bit and then average the
+weights um the point about that is if you got a trillion weights you're sharing a
+trillion numbers so it's an incredible bandwidth of sharing and that's why the big chat Bots
+I probably say that somewhere yes that's why the big chatbots have um
+hugely more knowledge than any person it's not the one copy saw thousands of
+times more data than a person although maybe it did um it's that they can share the knowledge between many copies
+running on different hardware and I've talked about
+distillation and so the story so far is that digital computation is far more expensive in terms of energy and in
+terms of how you manufacture the Hardware but you can have many copies of
+the same model running on different hardware and they can share what they learn and that way you can learn a whole lot more so roughly speaking we have a
+100 trillion connections gp4 probably has a few trillion
+connections and yet it knows thousands of times more than us so it's of the
+order of a 100,000 times better at compressing knowledge into connection strengths
+which also suggests that maybe back propagation is a better algorithm than what we've got and a reason for
+believing that is we're optimized for something completely different so we're optimized for getting
+very little experience and having a huge number of connections and doing the best you can with very little experience and
+this huge number of connections um we live for about 2 times
+10 to the 9 seconds um but you don't learn much after the first one time 10 to 9 seconds so let's call it 10 to the
+9 and we've got about 10 to the 14 connections um so we have 100,000
+connections for every second we live um that's very different ratio from what
+statisticians are used to I remember talking to a very good statistician called Stu geman in the 80s who
+explained to me that you know what we were doing was really fitting statistical models that's what these neural Nets were and when they did
+statistical modeling if you had 100 dimensional data that was considered extremely high data and no one in their
+right mind would try to fit a million parameters um well we're in a different
+regime so I'm going to talk a bit about large language models now and whether they really understand what they're
+saying um so one of the arguments against them is they just glorified aut
+complete most of the people in this room I think don't believe that argument the argument Appeals to the idea that
+autocomplete will be done by storing things like trigrams and so when you see Fish and you'll say there's a high
+probability of chips um and so when people say it's just glorified
+autocomplete really they're appealing to a notion of how AO complete probably works and these things work completely
+differently from that um also it's the case that if you want
+to do really good auto complete then you you have to understand what was
+said if you get a long complicated question and now you're trying to predict the first word of the answer
+um that's probably a good bet um but if you want to do better than that you have
+to have understood the question I'll give you one example of that um suggested by Hector
+LEC the type's a bit small but there we go um so Hector LC is a symbolic AI guy and
+always will be um but he's very honest and he was honestly puzzled about how come these
+neural Nets could actually answer puzzles um so he made up a puzzle and
+his puzzle was the rooms in my house are painted white blue or white or yellow
+um what should I do if I want them all white and you had to realize you needed
+to paint the blue and yellow ones I made it more complicated by saying and put a temporal aspect by saying yellow paint
+Fades to White within a year here um in 2 years time I want them more white what should I
+do and Hector was surprised that it could deal with
+that so here's a version of gp4 and I'm
+fairly sure this was before it could in fact I'm sure this was before it could look on the web obviously a puzzle's no
+good if you use it at once now because it can go look on the web um but it just
+gave a you know a student would have got an A for that answer and the impressive thing is it can have
+this kind of level of performance on anything so my brother's uh historian
+and I asked it to ask him to ask it questions about history and he said it was really good
+the the only mistake it made was in answering one of the questions it failed to refer to a paper by him
+Large Language Models and Understanding
+um I think there's something genetic there
+um another argument people use is that hallucinations show these things don't really understand what they're saying um
+they occasionally just make up stuff that's not true well actually that's what people do all the
+time at least I think so I just made that up but I think it's true
+um there's a lovely example of that which is a scientist called rri niser
+psychologist looked at the memory of John Dean who testified at the Watergate trials and it's very rare for someone to
+spend a long time talking about events that happened a few years ago and for you to have the ground truth but he was
+talking about meetings in the Oval Office and he didn't know they were all recorded and so afterwards you could see
+um what was actually said and what he reported and what he reported was garbage it was he there were meetings
+that didn't exist different bunch of people and when he attributed things to people it was different people said
+something a bit like that um when he attributed things to himself he didn't actually say that um he said something
+vaguely similar in a different meeting but it was clear he was trying to tell the truth he was doing the best he could
+and actually what he said conveyed what was going on in the White House very well even though all the details were
+wrong and you won't believe that about your own memories but your own memories actually like that um unless you keep
+rehearsing something which we do for amazing things to happen to us when you recall the detail s many of them will be
+hopelessly wrong and you won't know it and your hero won't know it but that's just the way human memory is and it's
+cuz when you remember something you don't get it out of some file storage somewhere you just make up something
+that sounds plausible given the context and of course if it's something you know a lot about the thing you made up that
+sounds plausible is probably true um if it's something you don't know much
+about or something that happened long ago you make up something that seems plausible to you given the connection strengths you have in your brain and a
+lot of it will be plausible but false there is no line in human memory
+between making stuff up and remembering stuff remembering stuff is just making
+stuff up that works okay I said a lot
+um many other people say okay so maybe they do understand a bit but they work
+completely differently from us now in order to say that you'd have to know how we work okay um of course symbolic AI
+people have a view of how we work and they certainly believe that these things work completely differently from
+us but if you ask where these large language models came from back in
+1985 I made a little language model you just make the first L lowercase um it had like 112 training
+cases and it had a neural net with several thousand weights um it Lear it was the first
+Model that was trained to get representations for the meanings of words by trying to predict the next word
+in a sequence and it worked it didn't work that well later on we gave it a big
+training set of like nearly a thousand training cases and then it worked much better
+um but the aim of this model was to understand how humans
+represent things and there were two sort of main theories of what meaning
+is so one Theory coming from Psychology was the meaning of a word is
+a big Vector of semantic and syntactic features and that theory is very good at
+explaining why what's similar about two different words obviously the word
+Tuesday and the word Wednesday have very similar features and if you learned any
+any sentence that involves the word Tuesday and you represent the words in
+terms of vectors then you'll make very similar predictions if you have a similar
+sentence with the word Wednesday and slightly less similar predictions if it has a word
+Saturday so there's clearly a lot to that theory of meaning it explains similarities of
+meanings um but there's a completely different theory of meaning that comes from deess
+it's a structur theory of meaning and it says the meaning of a word is how
+it relates to other words so in AI in the 70s there was a
+big fight between these two theories of meaning um it wasn't really a fight the Minsky declared that um you needed
+relational graphs to capture meaning which was the structuralist theory and
+everybody in now just bought that and forgot about the features the features were some oldfashioned thing from
+perceptrons we didn't need those we had relational graphs now um the point of the work I did in 1985 was to show that
+actually these two theories are not incompatible at all as long as you adopt a generative
+approach to the relational graphs that is instead of thinking about the relational graphs being stored sort
+of statically as these relational graphs you think about the relational graphs being generated by a system that's using
+features and interaction between features so the point of the first little language
+model was to show that you could take knowledge expressed as sequences of
+symbols and the knowledge was expressing a relational graph and just given that form of the
+knowledge you could learn Vector representations for words and those Vector representations
+for Words via hidden lay could predict the vector representation for the next
+word and so what you've done is taken the knowledge that was sort of static in
+these symbol strings and instead of storing the symbol strings you use the
+symbol strings to learn good features for words and to learn good interactions
+between features and obviously what is a good feature for a word well it's something that allows you via the
+interactions to predict the features of the next word um and features of future
+words so I got this to work I'm not going to go into the details of it um
+and what was interesting was the reaction of the symbolic AI guys was hey
+you're just learning for the next symbol in the string um this is a really dumb way to do it you're turning it into that
+some big some big search in a continuous space you ought to be just searching the
+discrete set of rules for manipulating symbols and and there was something called inductive logic programming that
+did just that and they could produce results similar to what I was producing and so they said this is just a Sil way
+to neural Nets are a silly way to solve this problem and for a problem of the scale I was using they probably were but
+as things scaled up it became very clear that that approach of converting symbol strings into features and their
+interactions which still describes the language models now the interactions are
+more sophisticated because they involve attention um but it's in the same class of models that turns out to be a much
+better way to model language than having rules for manipulating simple
+strings I just said all that okay
+so if we believe these things understand in the same way as people do because after
+all having feature vectors for word meanings and having interactions between features for predicting the feature of
+the next word that's how AI what's what's now
+called AI Works incidentally in the past that was never called AI that was called neural Nets um but I tried to prevent
+them rebranding AI as neural Nets but I couldn't do it um
+so I forgot what I was going to say now um
+now that we've got these deep learning systems that are incredibly powerful and that understand in much the same way as
+people do because our best model of how people understand is one of these
+computer models that's the only reasonable model we've got of how people understand things when people say these
+models are different from us ask them well okay so how do we work and what's
+different about it um and they can't answer that question except for Gary Marcus Gary Marcus can answer that
+question and he says we work by having symbol strings and rules for manipulating them um but you should
+still worry about AI because although it doesn't understand anything it's extremely dangerous um I call that wanting to have
+your cake and have it eat you too um so a super
+intelligence could obviously take control by having Bad actors
+probably made this joke before but when I gave this talk in China
+um they asked to see the slides in advance and so I removed the short name
+there thinking that would make them happy and they came back and said I had
+to remove Putin that's that scared me a bit um so the basic problem is if you
+want to do anything having more control is better if you want to achieve stuff
+and you notice politicians start off wanting to achieve something like make Society a better place and then they
+realize having more power is going to make it easier and then they're hellbent on getting more power um it's going to
+be just the same for these things they're going to realize that if they want to achieve things they need more control I actually said this to a vice
+president of the European Union who specializes in extracting money from Google um
+and uh she said well we' made such a meage of things why wouldn't they so she
+took it as completely obvious they try and get more power um and they can do it by manipulating people because they'll be
+very good at that so we won't be able to turn them off because they'll explain to us why
+that's a very bad idea there's a further problem as if
+that's not enough there's the problem of evolution you don't want to be on the wrong side of evolution that's where we
+are with Co and that's why grahe and I still wear masks um we're on the wrong side of
+evolution um as soon as these super intelligent AIS start
+competing with each other for resources um what's going to happen is the one that most aggressively wants to
+get everything for itself is going to win and they will compete with each other for resources because after all if
+you want to get smart then you need a lot of gpus and who's going to be allocating the gpus in the data centers
+well it's going to be one of these super intelligent AIS so that's another
+worry but it's okay really because they're really not like us we're special
+okay everybody thinks they're special especially Americans um
+and they think you know God put us at the center of the universe and he made us look a bit like
+him sorry her um
+but most of us now believe that's not true um and so we hold back on the idea
+we've got something special we've got Consciousness awareness um subjective experience stuff like that all those
+terms mean slightly different things so I'm going to focus on the term subjective experience and I'm going to try and
+Super Intelligence and Control
+convince you that a multimodal chatbot can have subjective experience
+so the idea is that most people have a completely wrong view of what the mind is and they have this wrong view because
+they simply misunderstood how language for talking about mental States works so almost everybody thinks that
+there's an inner theater and I can see what's going on in my own inner theater but other people can't see it so when
+for example I say I see little pink elephants floating in front of me um
+what's happening is there's this kind of inner world of some kind where there's these little pink elephants that I can
+see that's one way of trying to understand how the language works and it's wrong the language doesn't actually
+work like that what's happening when you use terms
+like subjective experience is you're trying to explain what your percep perceptual system is
+telling you by appealing to what the state of the real world would have would
+have to be in order for you to have in order for your perceptual system to be
+working right
+so we talk the the things that are funny about mental States is not that they're
+internal things made of spooky stuff the thing that's funny about mental States is they hypothetical states of the world
+which if they were true would explain what's going on in our brain as normal business as opposed to
+something went wrong so what I mean when I say I've got
+the subjective experience of little pink El floating in front of me I'm not really telling you about some inner
+World some inner theater what I'm saying is my perceptual
+system is telling me something and what it's telling me would actually be valid
+perception if there were little pink elephants out there in the world so the little pink elephants aren't internal
+things made of qual in a theat they're hypothetical things but they're
+hypothetical real world things and that's why the language for describing them is language we normally apply to
+things out there in the world so what I'm really saying is if it were the case that there were little pink elephants
+floating in front ofely then what my percep perceptual system is telling me now would be
+correct and notice that didn't use the word experience so when I say I have the
+subjective experience of a little pink elepant slid in front of me that's just short ter for what I just said and I have minus 5 seconds left so I'll be
+quick um imagine you have a multimodal chatbot
+with a robot arm and it's been trained and it has a camera and you put a prism in front of
+its lens and you put an object in front of it and say point at the object and it points over there instead of pointing
+straight in front of it it points to one side and you say no the object's not there it's actually straight in front of
+you but I put a prism in front of your lens and if the chatbot were to say um
+oh I see uh the object straight in front of me but I had the subjective experience that it was over there the
+chatbot will be using the term subjective experience in exactly the way we use them there's nothing missing for
+subjective experience in this chatbot um when its perceptual system
+goes wrong it can tell you what's going on by saying what would have to be in the world for its perceptual system to be
+delivering these results now there's some things you see that can't be handled like this like the impossible
+triangle where there's nothing in the world that could give you this percept you can't explain you can't describe it
+this way except by saying I got the experience of an impossible triangle
+um but basically I think we all have a very primitive notion of what the mind
+is that's wrong and once that notion goes away we'll realize there's nothing
+distinguishing these things from us except that they're digital so they're
+Immortal and they're much smarter than us or they will be
+soon that's the
+end all right thank you Jeff very much and we are now going to go to questions
+and we're going to take one from uh back there who's going to tell us one from online maybe thank you uh how much are
+you worried about the speed of the uh AI progressing are we uh speeding too fast
+and then we are going to cross the bridge of nor return and then we can't have any control over it so not only the
+Bad actors putting uh shinp or North Korea have a control but the super
+intelligence might have their own control and becomes a bad actor itself are we are we spinning at too fast now
+are you are you worried about it or do you need to slow down yes but I don't think the right way to phrase the
+problem is in terms of whether you should go fast or slow um partly because I don't think you're going to be able to
+slow things up there's too much economic gain from going fast um we've seen
+actually what happens if people try and slow things up in a situ ation that was slanted entirely in favor of safety and
+profits still one so that's what that's my view of what happened at open AI
+um slowing it down a isn't feasible and B isn't the main point the main point is
+it's possible we can figure out how to make these things benevolent so we can
+deal with the existential threat that these things will take over it's a different problem from figuring out how
+to stop bad people using them for bad things which is more urgent um but it's
+possible we can figure it out and so my view is we should put huge effort into trying to figure that out and actually
+um Heather rman um sort of now agrees with that and is and we are going to put
+huge effort into trying to figure that out it won't solve all the problems um
+in particular it won't solve the problems of bad people doing bad things with it um I think think if you want
+regulations the most important regulation would be to not open- Source big
+models so I think open sourcing big models is like being able to buy nuclear
+weapons at Radio Shack do you guys still remember what Radio Shack was maybe
+Consciousness and Subjective Experience
+not it's crazy to open source these big models because Bad actors can then find tune them for all sorts of bad things um
+so in terms of regulations I think that's probably the most important thing we can do right now but um I don't think
+we're going to solve it by slowing down and that's why I didn't Sol I didn't sign that petition that said we should slow
+down we have one question online as well can you discuss the trace off between
+individual autonomy and collective decision making in our collaborative intelligence
+ecosystem can you my hearing is not very good so can you read the question again slowly sure can you discuss the trace
+off between individual autonomy and collective decision making in our
+collaborative intelligence ecosystem okay I'm not sure I really
+understand the question but most people think of these things as individuals
+these super intelligences and that may be a mistake we should be thinking of communities of
+them and already they people are making communities of chatbots interact with each other um
+obviously a very sensible organization to have is have chat Bots interacting
+with people so in health for example you really want a very intelligent assistant and a doctor interacting and for a long
+time that's how it's going to be gradually the doctor is going to put more and more Reliance on the intelligent assistant already you can
+get better medical diagnosis by having a doctor interact with a system that does medical diagnosis um so obviously we
+want to go for a Synergy of people in these systems but it may not turn out
+like that and as soon as we let the systems act in the world
+um maybe it won't turn out like that there was something reported a couple of days ago where they got a bunch of
+chatbots to do International diplomacy and it ended up with one of the chatbots
+saying well I got nuclear weapons so why don't I use them something like that I'm
+confabulating but you'll see that that's roughly what what
+happened have a question up
+here hey hi um so I'm just trying to frame this question in my mind but I'll try to ask you um so at least the
+current large language models that is publicly available right sorry talk slower oh okay the current large
+language models that is publicly available uh it's aligned with humans right that at least that's what they are
+trying to like do but to achieve the super intelligence that you talk about uh it needs to be at least disobedient
+right in my mind so if it aligns with human like how do how how do you think it will achieve this kind of like super
+intelligence and do you think that's fair or not I don't know I'm just asking you so there's obviously a big problem
+with aligning with humans which is humans don't align with each other um so it's not at all clear if you talk to a
+religious fundamentalist about what these things should do they have very different ideas from a scientific
+materialist um so that's one big problem with alignment
+um my best bet is that these things are going to get very smart and then decide
+to hell with alignment with humans we're can to do something more sensible um but
+I don't know
+um I have a question here um it's about purpose is it possible that AI could
+have purpose in the same sense that uh humans have a purpose not in terms of an
+individual goal or um you know a subg goal but more in terms of the entire
+purpose of our existence and what is that that's what we're trying to figure
+out so can AI right um my view of that is we
+evolved things that evolve um beat out other things that
+evolved um by getting more for themselves and less for the other things there were I think 21 other species of
+humans we wiped out maybe subspecies um we wiped them
+out I and in so far as we have purpose it's the purpose given to us by
+Evolution and that's all about survival so if you look at all the things you feel most strongly about um
+they're all related to survival like you want to get enough to eat um you want to have sex um you want to be safe they're
+all about survival I don't actually think there is any higher purpose you're very curious that's got huge
+evolutionary value being curious um and it's it's a it's a real goal you're not
+well I think funders of science don't really understand this um you can be
+curious in order to produce technology that's good for something or you can be curious just because you want to understand how it works and that's a
+primary goal um that's what good scientists are like um but I think all these
+goals and purpose our sense of purpose all comes from evolution I know there are
+alternative theories I think we have time for one more question um Jeff U my questions about
+the ml Hardware Market it's currently dominated by a single player is it something that worries you and do you
+think we will see diversification of the ml Hardware industry it doesn't worry me because for
+my daughter's 30th birthday present I bought her a whole bunch of Nvidia shares
+[Laughter] and they're now worth five times what
+they were then um so she's going to be okay and what evolution said was one of
+your most important goals is to make sure your kids are okay so um but Jokes
+Aside it doesn't worry me that much because as soon as you have a situation like that where Nvidia is making huge
+profits um there's immense competition now it'll take a while before other
+people catch up particularly um with having competitors to Cuda for their
+software and so on but um it's a short-term thing it's not going to last that long and if you ban
+Nvidia gpus from going to China um they're just going to catch up
+more quickly so I guess I haven't thought much about it every time Nvidia goes up I smile um
+not as much as SAA Smiles but all right uh let's thank Dr Jeffrey
+Q&A Session
+Hinton again
+
