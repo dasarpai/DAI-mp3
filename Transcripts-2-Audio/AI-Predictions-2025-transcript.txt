@@ -1,0 +1,1727 @@
+Source: https://www.youtube.com/watch?v=PzjIIqKneZY
+
+You Transcript with Timeline
+
+
+Intro
+0:00
+well Happy New Year surprisingly there
+0:02
+hasn't been a ton of AI announcements
+0:04
+between Christmas and New Year's okay
+0:07
+maybe that's not that surprising but
+0:09
+there has been a few I'm going to
+0:11
+quickly break down the few small
+0:12
+announcements that happened over the
+0:14
+last few days but then I'm going to
+0:15
+spend more time on predictions of what I
+0:19
+believe is going to happen with AI in
+0:20
+2025 as well as what you think is going
+0:23
+to happen in 2025 I asked you guys over
+0:25
+on X what your predictions for AI and
+0:27
+other emerging Tech was in 2025 and
+0:30
+received 121 responses so we'll dig in a
+0:33
+little bit on both what I think is
+0:36
+coming in 2025 and what you guys think
+0:38
+is coming in 2025 but first here's a
+0:40
+quick rundown of the news that happened
+0:42
+in the last few days on December 27th
+OpenAI Converting to For-Profit
+0:45
+open aai pretty much confirmed what
+0:47
+everybody saw coming in that they are
+0:50
+going to attempt to convert from a
+0:52
+nonprofit to a for-profit company they
+0:55
+believe that's the best way to make the
+0:57
+company more sustainable and actually
+0:59
+achieve their mission they plan to
+1:01
+transform the existing for-profit into a
+1:03
+Delaware Public benefit corporation
+1:06
+which requires the company to balance
+1:07
+shareholder interest stakeholder
+1:09
+interest and public benefit interest in
+1:11
+the decision-making the nonprofit would
+1:13
+essentially become an investor in the
+1:15
+for-profit they will hold a large amount
+1:17
+of equity in the new for-profit now this
+Hinton Pushes Back
+1:19
+whole conversion of a nonprofit to a
+1:22
+for-profit has actually been met with
+1:25
+quite a bit of resistance from outside
+1:27
+companies Elon Musk has tried to block
+1:30
+this from actually happening and now the
+1:32
+Godfather of AI Jeffrey Hinton has also
+1:35
+said that he does not think it's in the
+1:37
+best interest for open AI to convert to
+1:39
+a for-profit open AI was founded as an
+1:42
+explicitly safety focused nonprofit and
+1:45
+made a variety of safety related
+1:46
+promises in its Charter it received
+1:48
+numerous tax and other benefits from its
+1:51
+nonprofit status allowing it to tear all
+1:53
+of that up when it becomes inconvenient
+1:55
+sends a very bad message to other actors
+1:58
+in the ecosystem so although open AI
+2:01
+wants to convert to a for-profit there
+2:03
+is still some opposition out there that
+2:05
+might try to block that from happening
+2:07
+I've mentioned in one of my recent live
+2:09
+streams that I personally don't find
+2:11
+this that exciting of information
+2:14
+because it doesn't really impact how I'm
+2:16
+currently using AI on a day-to-day basis
+2:19
+which is really the main focus of my
+2:20
+channel is how people can use this stuff
+2:23
+on a day-to-day basis but this is hot
+2:25
+and in the AI news right now so I
+2:27
+figured I would share this stuff quickly
+OpenAI's Media Manager Never Happened
+2:29
+also I've seen a lot of the tech
+2:30
+websites point this out so I'll point it
+2:32
+out really quickly as well open AI
+2:34
+failed to deliver on the optout tool
+2:36
+that it promised by 2025 if you remember
+2:38
+back in May open AI said it was
+2:40
+developing something called the media
+2:43
+manager which was a tool that would
+2:44
+allow content creators and websites to
+2:47
+opt out of open aai training on any of
+2:50
+its data they said they intended to have
+2:52
+this launched by 2025 well we are
+2:55
+officially in 2025 and it hasn't even
+2:57
+launched and supposedly according to
+3:00
+people within open AI that feature was
+3:03
+rarely viewed as an important launch
+3:05
+internally someone who used to work at
+3:07
+open AI said I don't think it was a
+3:08
+priority to be honest I don't remember
+3:10
+anyone working on it so who knows if
+3:13
+it's even something that will ever get
+3:15
+created but as of right now we haven't
+3:17
+heard any more about it since back in
+Google Gears Up for 2025
+3:20
+May Google who ended 2024 with a bang
+3:24
+showing off V2 the willow Quantum chip
+3:27
+their genie2 model new verions of Gemini
+3:31
+The Notebook LM it just seemed like
+3:33
+everything kind of came together for
+3:35
+Google at the end of 2024 and they seem
+3:39
+to be just getting started Google's CEO
+3:42
+told employees to gear up for a big 2025
+3:45
+he told employees I think 2025 will be
+3:48
+critical I think it's really important
+3:49
+we internalize the urgency of this
+3:51
+moment and need to move faster as a
+3:53
+company the stakes are high these are
+3:55
+disruptive moments in 2025 we need to be
+3:58
+relentlessly focused on unlocking the
+4:00
+benefits of this technology and solve
+4:02
+real user problems Google sort of had a
+4:05
+reputation during 2023 and a lot of 2024
+4:10
+of not shipping as fast as companies
+4:13
+like anthropic and open AI when it comes
+4:15
+to releasing AI they would show off
+4:17
+features but then not roll them out but
+4:19
+towards the end of 2025 they really
+4:21
+flipped that switch and started actually
+4:23
+releasing a lot of really really cool
+4:25
+stuff so Google is one of the companies
+4:28
+that I'm pretty excited to see what they
+4:29
+they produced in 2025 with the current
+AI Clips Long Videos to Shorts
+4:31
+state of AI technology there's never
+4:33
+been a better time to get into creating
+4:35
+online video content so for today's
+4:38
+video I partnered with Opus clip because
+4:40
+it's been one of my secret weapons to
+4:41
+turn long form video content into tons
+4:44
+of short form content if you've been
+4:46
+watching my channel recently you've
+4:47
+probably noticed I've been doing live
+4:49
+streams lately well Opus clip has
+4:50
+allowed me to turn those live streams
+4:52
+into hundreds of short form clips that
+4:55
+I'm able to then publish on YouTube and
+4:58
+Instagram for thousand thousands and
+5:00
+thousands of extra views on my videos
+5:02
+you feed it one long form video it will
+5:05
+Analyze That video and find the clips
+5:06
+that are most likely to go viral as
+5:09
+short form Clips it also reframes the
+5:11
+entire video all of these were shot in a
+5:14
+16x9 wide format video Opus clip
+5:17
+automatically resized it to 9x6 put my
+5:21
+face on the videos and whatever I was
+5:23
+showing off on the clip on the video as
+5:25
+well and they keep adding new features
+5:27
+as well they've got an AI voiceover
+5:29
+feature a speech enhancer feature a
+5:31
+feature to automatically add b-roll and
+5:33
+their editor is really powerful I can
+5:36
+use AI to enhance the speech remove
+5:38
+filler words remove pauses even add
+5:40
+sensors to my videos if I don't like how
+5:43
+the clip was laid out I can easily
+5:44
+rearrange in the editor put my head on
+5:47
+the top of the video and the thing that
+5:49
+I'm showing on the bottom of the video
+5:51
+and just like that you're seeing the
+5:53
+secret to how I've managed to produce so
+5:55
+many short form videos off of one weekly
+5:58
+live stream opis clip has made it so
+6:01
+easy so if you're thinking about getting
+6:02
+into video content creation 2025 is the
+6:05
+year to do it tools like Opus clip make
+6:08
+it extremely easy to create loads of
+6:11
+valuable content and what you're seeing
+6:13
+on my various channels is proof of that
+6:16
+you can learn more about opis clip in
+6:17
+the link in the description and thank
+6:19
+you so much to opis clip for sponsoring
+6:21
+this video moving over to meta news real
+Meta Wants Fake People on Social
+6:23
+quick this is something that I've heard
+6:25
+quite a bit about that I'm not super
+6:27
+excited about from meta apparent meta
+6:30
+wants to release a whole bunch of AI
+6:33
+fake people on platforms like Facebook
+6:35
+and Instagram to essentially provide
+6:38
+people that get very little engagement
+6:40
+with more engagement to make their
+6:42
+platforms more sticky and I personally
+6:44
+think this is a very weird like almost
+6:46
+dystopian move by meta now meta's made a
+6:49
+lot of good decisions and I love a lot
+6:51
+of what meta did but this is one where
+6:53
+I'm kind of stepping back and going is
+6:55
+this really where you want to take your
+6:57
+platforms the tech giant is planning to
+6:59
+roll out millions of generative AI
+7:01
+characters that will appear as users on
+7:03
+Facebook and Instagram so they're going
+7:05
+to make them look like real people on
+7:07
+these platforms we expect these AIS to
+7:09
+actually over time exist on our
+7:11
+platforms kind of in the same way that
+7:13
+accounts do they'll have bios and
+7:15
+profile pictures and be able to generate
+7:17
+and share content powered by AI on the
+7:19
+platform that's where we see all of this
+7:21
+going and this came directly from Connor
+7:24
+Hayes the vice president of product for
+7:26
+generative AI at meta this article says
+7:28
+that while Bots are typically viewed as
+7:29
+a negative aspect of navigating social
+7:31
+media platforms Met's decision to
+7:33
+purposefully introduce non-human users
+7:36
+into its social media ecosystem is
+7:38
+linked to the company's desire to appeal
+7:39
+to a younger generation of users so
+7:42
+while most of these social media
+7:44
+platforms are doing everything they can
+7:45
+to fight Bots and eliminate Bots meta's
+7:49
+idea of the future of social media is to
+7:51
+introduce a ton of new Bots and let
+7:54
+humans interact with Bots likely in a
+7:56
+way where they're not even realizing
+7:58
+they're interacting with Bots to
+8:00
+increase the stickiness and retention of
+8:03
+users on these social media platforms I
+8:05
+don't like that I personally not a fan
+8:07
+of where that is headed if I'm on social
+8:10
+media I want to know I'm interacting
+8:11
+with other humans I'm sure there's going
+8:13
+to be some sort of disclaimer that's
+8:14
+noting that they're talking to an AI but
+8:17
+their goal is definitely to create a
+8:18
+social media platform where people feel
+8:20
+like they're getting more engagement
+8:22
+even when that engagement isn't actually
+8:24
+coming from real humans this week
+Hugging Face Smolagents
+8:26
+hugging faced introduced small agents
+8:28
+this is a simple library that unlocks
+8:31
+agentic capabilities for language models
+8:33
+now I haven't dug into this myself too
+8:35
+much but this appears to be a sweet of
+8:37
+tools available on hugging face that
+8:40
+allows anybody to create agents with
+8:42
+existing tools that are already out
+8:44
+there but it is something that I will
+8:45
+likely play around with in the future
+8:47
+and once I have a better understanding
+8:49
+of it I'll share more thoughts on it
+Nvidia's Latest Acquisition
+8:51
+Nvidia this week closed an acquisition
+8:53
+on a software company called run AI it's
+8:56
+estimated that it cost Nvidia about 700
+8:59
+million dollars to acquire run aai and
+9:02
+if you're curious what run AI is it
+9:03
+appears to be a platform that helps
+9:06
+optimize AI infrastructure we can see in
+9:08
+the press release here it says in
+9:09
+addition we plan to open source the Run
+9:11
+AI software to help the community build
+9:13
+better AI faster while run AI currently
+9:15
+supports only Nvidia gpus open sourcing
+9:18
+the software will enable it to extend
+9:20
+its availability to the entire AI
+9:22
+ecosystem and in the last little bit of
+Nintendo Switch 2 (With AI)
+9:24
+AI news that I'll share here there's a
+9:25
+new Nintendo patent that appears to
+9:28
+reveal switch 2 and the patent claims
+9:31
+that it's going to use deep learning
+9:33
+super sampling basically this is
+9:35
+technology that uses AI to upscale the
+9:38
+resolution of games effectively allowing
+9:40
+developers to achieve higher graphical
+9:42
+settings and better frame rates on
+9:44
+weaker Hardware so essentially what this
+9:46
+is saying is that the next version of
+9:49
+Nintendo switch they don't have to make
+9:51
+games that actually are in 4k they can
+9:54
+make the games in like 1080P or lower
+9:56
+resolution ship the games in that lower
+9:59
+resolution ution then when you play the
+10:01
+game on the device itself it's going to
+10:04
+upscale back up to like a 4K resolution
+10:07
+and give you that higher quality video
+10:09
+This is likely going to be the future of
+10:11
+a lot of game systems where they can
+10:13
+make smaller and smaller file sizes by
+10:15
+downscaling the resolution of the game
+10:18
+and then while you're actually playing
+10:19
+the game the console or the computer or
+10:22
+whatever you're using to play the game
+10:24
+then re-ups scales it back up into that
+10:26
+like 4K really really high def
+10:29
+definition video and that's pretty much
+10:31
+all the most interesting AI news that I
+10:33
+found for you this week some of it's not
+10:35
+even that interesting but I did want to
+10:37
+share what little news did trickle out
+10:39
+this week but now let's quickly talk
+My Predictions for AI in 2025
+10:41
+about AI predictions for 2025 my number
+10:44
+one prediction is that 2025 is the year
+10:47
+of AI agents we're going to hear AI
+10:49
+agents everywhere we're going to hear
+10:51
+the word agentic a lot so much that
+10:53
+you're going to get sick of hearing the
+10:55
+word agentic because I think everybody
+10:56
+is going to build AI agents into their
+10:58
+platform and what I mean by AI agents is
+11:01
+using AI that can also use tools and do
+11:04
+things on your behalf imagine using Siri
+11:07
+to look up a flight for you help you
+11:09
+book it and then add it to your calendar
+11:12
+and it would do all of those steps for
+11:13
+you or telling your Google Assistant to
+11:16
+help you schedule a meeting with
+11:18
+somebody and your Google Assistant goes
+11:20
+and sends that email with somebody goes
+11:22
+and does some back and forth with emails
+11:24
+to confirm a time and once a time is
+11:26
+confirmed adds it to your calendar
+11:28
+things like that I think we're going to
+11:29
+see a lot more of in 2025 where you're
+11:32
+using some sort of like voice assistant
+11:34
+and it goes and takes actions on your
+11:36
+behalf we know that anthropic got huge
+11:39
+investments from Amazon this year so
+11:41
+your Amazon Alexa is probably going to
+11:43
+have much more of this kind of
+11:44
+Technology built into it we've seen what
+11:46
+Google is trying to do with Gemini and
+11:48
+their project Astra we've seen what
+11:50
+apple is doing by baking in AI into Siri
+11:53
+and connecting it to chat GPT we've seen
+11:55
+what meta is doing by Rolling AI into
+11:58
+all of their m messaging platforms so I
+12:00
+really really think all of them want
+12:02
+this sort of like agent tool use kind of
+12:05
+functionality Claude even put out their
+12:07
+tool use feature now it's not really
+12:09
+easy to set up for people yet it's like
+12:11
+a very very early testing sort of
+12:13
+scenario but they've already shown it
+12:15
+off and I've already played with Claud
+12:17
+that can use tools open AI said they're
+12:19
+expecting tool use to roll out in
+12:21
+January of 2025 for chat GPT and along
+12:23
+with that I think we're going to see
+12:25
+more AI baked into everything when I was
+12:27
+at CES last year they had AI in
+12:29
+refrigerators AI in laundry machines AI
+12:31
+in toilets AI in ovens AI in barbecues
+12:35
+AI pillows AI beds literally everything
+12:38
+had AI I'm going to CES like I mentioned
+12:40
+next week I'm expecting even more of
+12:41
+that like every Booth is going to have
+12:43
+some sort of Gadget but now with AI in
+12:45
+it I really think we're going to see
+12:47
+that I also think we're going to see a
+12:49
+lot more of the AI wearables like we're
+12:51
+going to see more of the sunglasses and
+12:52
+the earbuds and the wristbands and
+12:54
+things like that that have ai baked into
+12:56
+it the meta Ray bands were a big hit
+12:58
+they continue to sell well and do well
+13:01
+and meta already said that in 2025 they
+13:03
+think they're going to add some sort of
+13:04
+like heads up display in them so that
+13:06
+you can actually see text and subtitles
+13:08
+and things like that right in your eyes
+13:10
+inside of your sunglasses we already saw
+13:12
+that project Astra is going to get like
+13:14
+a glasses version soon so we're going to
+13:16
+see more of those wearables we've also
+13:18
+seen sneak peeks of like earbuds that
+13:20
+you can wear that will do automatic
+13:21
+translation for you and things like that
+13:23
+so wearables I think are going to be a
+13:25
+really really big thing in 2025 that
+13:27
+we'll hear a lot of talk about I
+13:28
+mentioned video models getting way
+13:30
+better from 2023 to 2024 and I think
+13:33
+we're going to see that Trend continue
+13:35
+Sam Alman from open AI said that there's
+13:37
+a lot of plans in the works for
+13:39
+improving Sora right now we have the
+13:42
+Sora turbo model we don't even have the
+13:43
+full Sora model yet so we're going to
+13:45
+see big leaps there we got V2 from
+13:48
+Google which most people still don't
+13:49
+have access to but it's really really
+13:51
+good we've got the Chinese models like
+13:53
+cing and Minx that are really really
+13:56
+good you've got Pika and Runway which
+13:58
+are both constant L innovating in their
+14:00
+own ways so we're going to see video
+14:02
+just get better and better and better in
+14:04
+2025 I imagine we're going to get videos
+14:07
+that are longer you know generate up to
+14:09
+a minute or longer with our AI videos
+14:11
+they're going to get higher quality the
+14:13
+physics understanding is going to get a
+14:15
+lot better where they understand which
+14:18
+leg is the you know the leg that's
+14:20
+furthest from the camera and which leg
+14:21
+is the closest to the camera and
+14:23
+understanding environments a little bit
+14:24
+better I really think the AI video is
+14:27
+going to get really really good in 2025
+14:30
+like it's already pretty good I think
+14:31
+it's going to get to that
+14:33
+indistinguishable from is this a real
+14:35
+video or is this generated with AI I
+14:37
+think people are going to have trouble
+14:38
+determining the difference I think we're
+14:40
+going to see more self-driving Tech in
+14:42
+2025 we know Tesla's got their cyber
+14:44
+taxi which is coming out in 2026 but we
+14:47
+also know there's companies like weimo
+14:49
+who are connected with Uber there's
+14:51
+rumors that Amazon might try to work
+14:54
+some sort of acquisition with lft and
+14:56
+work in autonomous vehicles into lift as
+14:58
+well and I think a lot of these
+15:00
+companies are going to try to do this
+15:02
+stuff before the robo taxis or cyber
+15:04
+taxis or whatever they're called are
+15:06
+released by Tesla I think weimo is going
+15:08
+to try to get ahead of it uh Amazon has
+15:10
+a company called zuk I think zox which
+15:13
+also makes like autonomous little like
+15:15
+buses and vehicles and things so I think
+15:17
+if they end up working with Lyft really
+15:19
+closely we might see Lyft actually have
+15:22
+autonomous vehicles inside of their
+15:23
+Fleet as well so I think we're going to
+15:25
+see a lot of that bubble up even more in
+15:27
+2025 I I think we're going to hear a lot
+15:30
+more talk about Quantum Computing we
+15:32
+recently saw that Willow chip from
+15:34
+Google which made huge leaps in what
+15:37
+quantum computers can do and minimizing
+15:40
+the error rates of these quantum
+15:42
+computers IBM has similar chips that
+15:44
+they're working on that are going to be
+15:46
+released in 2025 and I think the talk
+15:49
+around Quantum Computing is really going
+15:51
+to Bubble Up more and more in 2025 so
+15:54
+those are really my predictions for 2025
+15:56
+AI agents AI baked into every
+15:59
+more and more wearables like glasses
+16:01
+with heads up displays and earbuds that
+16:03
+can automatically translate things the
+16:05
+continued progression of video models
+16:07
+they're only going to get better and
+16:09
+more impressive in 2025 more and more of
+16:11
+the self-driving Tech and self-driving
+16:14
+cabs like the wio like the zuk like the
+16:17
+Tesla version and finally a lot more
+16:20
+talk around Quantum Computing I'm sure
+16:22
+there's quite a bit that I am missing
+16:24
+and also my timelines are often very off
+16:27
+but I really think those are the are I
+16:29
+we'll see a lot more in 2025 now I'm
+Your Predictions for AI in 2025
+16:31
+going to do a quick runr of some of your
+16:33
+predictions that you shared on X with me
+16:35
+I actually haven't even read most of
+16:37
+these yet some of them I kind of
+16:38
+accidentally saw in my notifications but
+16:40
+most of these I haven't read yet so
+16:42
+baval says AI video shatters the visual
+16:45
+Turing test totally agree that's one of
+16:47
+the things I predict as well Jason
+16:48
+Moffett one of my buddies he says I
+16:50
+think unless you're way ahead of the
+16:52
+curve many people are going to be
+16:53
+penalized using AI because it's creating
+16:55
+so much of the same old same old from
+16:57
+people who aren't very creative I with
+16:59
+that from like a Content marketing
+17:01
+standpoint I think if you're relying on
+17:03
+AI a little too heavily to create your
+17:04
+content for blog posts and things like
+17:06
+that it's probably not going to do super
+17:08
+well but if you're using AI in other
+17:10
+ways like if you're using AI to create
+17:13
+really good videos really good AI
+17:15
+imagery using it to help like brainstorm
+17:18
+ideas things like that I still think AI
+17:21
+is really really valuable I just think
+17:23
+AI generated content is also going to
+17:25
+create just a flood of AI sort of slop
+17:27
+on the internet and that I'm not looking
+17:29
+forward to but I also think Google and
+17:31
+some of these platforms are going to
+17:32
+figure out how to sort of drank that
+17:34
+stuff right now it's really really tough
+17:36
+for algorithms to tell whether or not
+17:37
+something was AI generated I think
+17:39
+that's only going to get harder but I
+17:41
+also think a lot of these AI generation
+17:43
+tools might do some sort of like water
+17:45
+marking thing to help determine whether
+17:47
+it was generated with AI or not we'll
+17:49
+see I don't know I don't know how that's
+17:50
+going to play out I think SEO in general
+17:53
+is just going to be totally overhauled
+17:55
+pretty soon as a result of AI the way we
+17:57
+search is changing we Now sort of ask
+17:59
+questions and use prompts instead of
+18:01
+searching as much and the way we create
+18:03
+content is changing because it's so
+18:04
+effortless to create content now so I
+18:06
+just think SEO as a whole is going to
+18:09
+change a lot Johannes Copeland says
+18:11
+we're going to get damn close to AGI
+18:12
+with agents that actually work
+18:14
+effectively replacing large parts of
+18:16
+existing jobs couldn't agree more Nick
+18:17
+silver says I personally think 2025 is
+18:19
+the year of AI agents I think that a lot
+18:22
+of people that are paying attention to
+18:23
+like the AI verse C AI agents is the
+18:25
+next thing if you do want to post a blog
+18:28
+post on WordPress it's not going to be
+18:30
+go to chat GPT have chat GPT write it
+18:33
+for you you copy and paste it into
+18:35
+WordPress and then you publish it it's
+18:37
+going to be more like hey go write me an
+18:39
+article about X and then your AI agent
+18:42
+goes and does the research writes the
+18:43
+article copies and pastes it to
+18:45
+Wordpress for you generates a thumbnail
+18:48
+image for you and then presses the
+18:49
+publish button for you so all you did
+18:52
+was instruct it on what you wanted it to
+18:54
+do and it did everything beyond that
+18:56
+point I think that's where like AI AG
+18:59
+and content creation are going to go Jos
+19:01
+Marino because of the Jetson ship there
+19:02
+will be an explosion of entertaining
+19:04
+robots like Pokemon and other characters
+19:06
+for kids that would be pretty cool I'd
+19:07
+love to see that you'll see a ton of
+19:09
+video AI produced entertainment in a
+19:11
+fraction of the time it'll allow
+19:12
+creators to get their voices out there
+19:14
+instead of spending weeks to produce
+19:15
+something similar Zoom says this year
+19:17
+will be about implementing AI in the
+19:19
+workspace effectively and have it be
+19:21
+able to carefully complete task by
+19:23
+itself Yeah so basically like the agent
+19:25
+sort of stuff we need AI that reliably
+19:27
+produces results and that doesn't need
+19:28
+too much supervising agreed yeah that's
+19:31
+that's where I think like the AI agent
+19:32
+stuff is really going to happen this
+19:33
+year it will cause a great deal of
+19:34
+confusion devising ways to discern truth
+19:37
+from fiction will become a huge priority
+19:39
+totally agree I think we're already
+19:41
+there with AI images I think people are
+19:43
+already pretty good at creating AI
+19:44
+images that can fake people out and make
+19:46
+them think they're real I think we're
+19:47
+going to get there with video in 2025 in
+19:49
+fact I'm very confident we're going to
+19:51
+be there with video in 20125 Raymond L
+19:54
+predicts that we'll have the first
+19:55
+Global incident caused by an AI agent
+19:58
+going hey wire I hope not but you know
+20:00
+there's going to be people in their
+20:01
+basements trying to figure out how to
+20:02
+wreak havoc with these various AI models
+20:05
+Sir Charles says AI will make its way
+20:07
+into some big movies one way or the
+20:08
+other and not only the title thing yeah
+20:11
+I agree I mean I think we're already
+20:12
+seeing it we're already seeing AI help
+20:14
+replace faces with like deceased actors
+20:16
+and using AI to get like voice over and
+20:20
+things like that so I I really think
+20:22
+we're already starting to see it I think
+20:24
+that a lot of Hollywood and a lot of
+20:26
+game studios and things like that are
+20:28
+going to sort of hide the fact that
+20:29
+they're using AI at least in the near
+20:31
+term because they know there's some
+20:32
+backlash but I think a lot of these
+20:34
+companies are already using it they're
+20:35
+just not talking about it as much Victor
+20:37
+thinks that we'll have the movie her
+20:39
+next year but using AR glasses instead
+20:41
+of earbuds I can see that I mean with
+20:43
+project Astra I've already started to
+20:45
+get glimpses of that if we get the
+20:46
+advanced voice mode with chat GPT but in
+20:49
+glasses I think you know you get that
+20:51
+kind of scenario Nu says I want to see
+20:53
+an AI that takes video camera and
+20:55
+microphone as an input and produces
+20:57
+video as an output depending on what the
+20:59
+input is the output could be an avatar
+21:01
+conversing or graphical illustration or
+21:03
+a movie whatever makes the most sense
+21:04
+for the input video I would love to see
+21:06
+that I don't know if we're going to get
+21:06
+that in 2025 I'm pretty sure that uh
+21:09
+Google is working on trying to do that
+21:11
+inside of Gemini I mean their model is
+21:13
+multimodal from the start so it can
+21:15
+understand video I don't know how well
+21:17
+it can produce video yet but it can
+21:19
+understand video and then when you look
+21:20
+at open AI you know they're trying to
+21:22
+add video understanding as well but they
+21:24
+also have a platform that outputs video
+21:25
+in Sora you know Google has VO2 so both
+21:28
+of these platforms have models that can
+21:30
+output video both of these platforms are
+21:33
+able to take in video you would think
+21:35
+they would get there soon whether we see
+21:37
+that in 2025 or not I'm not sure
+21:39
+self-improving AI agents full length
+21:41
+movies AI generated games AI agents AI
+21:44
+agent takeover Greg says AI gets
+21:47
+personal smart assistants that truly
+21:49
+know you ethics take Center Stage
+21:51
+stronger regulation and Frameworks to
+21:52
+ensure responsible AI development I'm
+21:54
+really hoping for this as well
+21:56
+creativity goes hybrid AI becomes a true
+21:57
+creative partner revolutionizing how we
+21:59
+make art music and content yeah that one
+22:01
+I think we're already there I think
+22:03
+people that really understand and
+22:04
+leverage AI are already kind of using it
+22:06
+as a partner not as like the only tool
+22:08
+like me personally I create art in mid
+22:11
+journey and Leonardo and idiogram and
+22:14
+all these various places and I pull it
+22:15
+together in Photoshop and then I throw
+22:17
+it into canva to add some like text
+22:19
+really easy so I'm already kind of
+22:21
+creating my own art by using a ton of
+22:24
+different tools and trying to pull it
+22:25
+all together Richard oconnell says still
+22:27
+no one will care about Gro I actually
+22:29
+kind of disagree on that one you know
+22:30
+Elon is trying to build like the world's
+22:32
+largest data center he's also trying to
+22:34
+build an external Gro app that's outside
+22:37
+of X so if he builds this data center
+22:40
+and he builds an app outside of X that's
+22:43
+like chat GPT but like an uncensored
+22:45
+version I actually think a lot of people
+22:46
+will care about grock at that point I
+22:48
+just think a lot of people don't use it
+22:49
+because you have to use x Twitter to
+22:52
+actually use grock right now and it's
+22:54
+not like the best of the large language
+22:55
+models it's not the best image generator
+22:57
+anymore it was when it used flux but
+22:59
+it's not right now but I think when it's
+23:00
+its own app if they maintain the fact
+23:02
+that they want it to be like this
+23:04
+uncensored model that you can do
+23:05
+anything with I think grock will be very
+23:07
+very popular among people that want to
+23:09
+use an uncensored version of a chat GPT
+23:12
+in a standalone app Tesla full
+23:13
+self-driving will go unsupervised
+23:15
+totally agree I think we're seeing that
+23:17
+in 2025 crypto shrimp the crypto
+23:19
+solutions for proof of personhood need
+23:21
+to be developed I do think this is a
+23:23
+decent use case of blockchain technology
+23:26
+so I would love to see something bubble
+23:28
+up that does that well AI compute will
+23:30
+slow down a bit but its applications
+23:32
+will become much more embedded and AI
+23:33
+will have another chat GPT moment I can
+23:36
+see that restructuring democracy says
+23:38
+apps become ideas only thing necessary
+23:40
+AI takes care of the rest that's totally
+23:42
+the future that I think all of this is
+23:43
+working towards whether that's 2025 or
+23:46
+not I don't know but I would love to be
+23:48
+able to go to a platform and say I need
+23:50
+an app that does this and it just spits
+23:52
+out the app and it works the first time
+23:54
+or I only have to give it one or two
+23:56
+more prompts to add some features I
+23:57
+think we'll get there I don't think
+23:59
+we're too far off from that whether we
+24:01
+see that in 2025 or not I don't know we
+24:03
+don't have access to open AI 03 yet
+24:06
+maybe 03 is capable of doing that kind
+24:08
+of thing but I don't know yet AI powered
+24:10
+automation yeah that's kind of like the
+24:12
+the agent stuff Quantum Computing
+24:13
+breakthroughs totally agree I mentioned
+24:15
+that as well extended reality as the new
+24:17
+Norm XR technologies will become
+24:19
+mainstream I thought that in 2024 I can
+24:21
+see it maybe being 2025 but I don't
+24:24
+think it's going to be the big headsets
+24:25
+I don't think it's going to be the meta
+24:26
+quests or the Apple Vision Pros I think
+24:28
+it's be more the smaller glasses form
+24:30
+factors I think it's going to be the
+24:32
+rayb band metas but with heads up
+24:34
+displays the Astro glasses with the
+24:36
+heads up displays built in they've got
+24:37
+to look like something you would wear
+24:39
+out normally for them to get adopted in
+24:41
+my opinion but I do think we will see
+24:43
+more of it in 20125 like I mentioned
+24:45
+2025 is the year of Agents agents Galore
+24:49
+agents going mainstream someone's going
+24:51
+to do a series of short AI movies that
+24:53
+will hold up and become popular probably
+24:55
+on YouTube I can totally see somebody
+24:56
+creating like a love death and robot
+24:58
+style show that was all generated with
+25:00
+AI and does really really well if the
+25:03
+storytelling and the visuals are both
+25:04
+there I think you need those two
+25:05
+elements good storytelling that hooks
+25:07
+people in and good visuals that don't
+25:09
+bore people with the visuals glasses
+25:11
+with real-time streaming functionality
+25:13
+Google Glasses Apple glasses I don't
+25:15
+know if Apple's actually going to do any
+25:17
+sort of glasses maybe but I haven't
+25:18
+really even heard rumors about Apple
+25:20
+glasses glasses powered by 01 or 03
+25:23
+definitely see that happening AI agents
+25:25
+everywhere custom droids Quantum
+25:27
+computing regenerative medicine with AI
+25:30
+I would love to see this happen in 2025
+25:33
+I just think that um the sort of legal
+25:35
+roadblocks really really slow this
+25:38
+portion down cuz I thought this in 2024
+25:41
+and nothing really manifested as fast as
+25:44
+I thought it would but these other three
+25:45
+totally agree with super bullish on
+25:47
+agents everywhere I would actually love
+25:49
+to see this so Thomas Chapman here says
+25:51
+someone will build a system that will
+25:53
+let you tune your social timeline
+25:55
+algorithm just by expressing your taste
+25:57
+and preferences that would be great so
+25:59
+like never show me a post about blank
+26:01
+ever again and you just won't see stuff
+26:02
+like that that would be really cool I
+26:04
+mean I'd love to see X do that I feel
+26:06
+like a lot of the platforms are
+26:07
+disincentivized to do that although I
+26:10
+believe threads already allows you to
+26:12
+sort of Custom Tailor your feed a little
+26:14
+bit better than the rest of the
+26:15
+platforms cyber Mage AI says lots of
+26:17
+crappy 5 to 10sec AI videos clogging up
+26:19
+everyone's timelines out of that there
+26:21
+will be some longer ones that are
+26:22
+amazing I mean that's now that's today
+26:24
+right you're already seeing a lot of
+26:26
+crappy 5 to 10c AI videos clogging up
+26:28
+timelines uh but I do agree we will see
+26:31
+some longer ones that are much more
+26:32
+amazing I've already seen some that are
+26:34
+like you know 2 or 3 minutes that I'm
+26:35
+really Blown Away by robotics take off
+26:38
+AI agents 2025 AI agents AI agents 3D AI
+26:43
+will continue improving that's another
+26:45
+thing I didn't mention 3D AI has gotten
+26:47
+really good with tools like meshy and
+26:49
+backflip and tripo there's a lot of
+26:52
+really really good AI to 3D object
+26:55
+platforms now where you can go and 3D
+26:57
+print them or move them into Unreal
+26:58
+Engine or pull them into mixamo and
+27:01
+animate them we've already seen those
+27:03
+tools get pretty good I do think we're
+27:05
+going to see them get really really good
+27:07
+in 2025 and maybe that's the next step
+27:09
+that we need to get more AI in the
+27:12
+gaming development experience I don't
+27:14
+know I still think a lot of the gaming
+27:15
+world is going to reject it and try to
+27:17
+push back hard I'll go ahead and cut it
+27:18
+off right there as far as the Twitter
+27:20
+posts because most of the other posts as
+27:21
+I scrolled through and we're saying the
+27:23
+same kind of stuff we're going to see AI
+27:24
+agents we're going to see AI video get a
+27:26
+lot better we're going to see leaps in
+27:28
+Quantum Computing we've got some people
+27:30
+that think we're going to see some big
+27:31
+leaps in medicine as a result of AI but
+27:34
+one thing I can guarantee is we're going
+27:35
+to get a lot more AI slop and that's one
+27:37
+thing that I'm not a fan of when it
+27:38
+comes to AI is just a lot of quickly
+27:41
+produced junk that people slap up and
+27:43
+throw up on social media and then you
+27:45
+get feeds that are clogged with it we're
+27:47
+going to see that in the form of text
+27:49
+video audio images all of it not really
+27:52
+a fan of that but we're definitely going
+27:53
+to see more of that in 2025 if there's
+27:55
+one prediction I can say with 100%
+27:57
+certainty it's that we're going to see
+27:58
+more AI slop but I'm going to do my best
+Final Thoughts
+28:00
+over 2025 to keep you up to date with
+28:02
+the news that's actually important in
+28:04
+the AI world the advancements that I
+28:06
+actually think are useful or helpful or
+28:08
+have really big implications to the
+28:09
+world I'm going to continue to make
+28:11
+tutorials in 2025 for you I'm going to
+28:13
+continue to break down all the latest
+28:15
+tools we're going to do a lot more fun
+28:16
+live streams I'm going to keep on
+28:18
+sharing short form Clips with little
+28:20
+bits of tips and advice like I've been
+28:21
+doing I'm super excited for what 2025
+28:24
+holds I'm excited to dig in and get more
+28:27
+immersed along along with you and just
+28:29
+keep looping you in on the best coolest
+28:32
+most important news going on in Ai and
+28:35
+emerging Tech my goal is always to be
+28:37
+helpful and show you the areas that I
+28:39
+think could be genuinely beneficial to
+28:42
+most people or to the world that's
+28:44
+really the goal with the channel I'm not
+28:45
+slowing down in 2025 I'm probably
+28:47
+ramping things up and sharing even more
+28:49
+cool workflows and tools and tutorials
+28:51
+and news and all that kind of stuff so
+28:53
+if you like that kind of stuff make sure
+28:54
+you like this video and you subscribe to
+28:56
+this Channel and that will ensure that
+28:58
+more videos like this show up in your
+28:59
+feed and if you haven't already check
+29:01
+out futur tools. this is where I share
+29:04
+all the cool AI tools I come across I
+29:06
+always keep the AI news page up to date
+29:08
+on a daily basis so all the latest AI
+29:10
+news is available here and I've got a
+29:12
+100% free newsletter where I'll share
+29:14
+just the coolest tools and most
+29:16
+important AI news directly in your inbox
+29:19
+when you sign up you also get free
+29:20
+access to the AI income database a
+29:22
+little database I made of cool side
+29:24
+hustles and ways to make money
+29:25
+leveraging AI tools it's all totally
+29:27
+free you can find it over at futur
+29:29
+tools. thank you once again for tuning
+29:31
+in thank you so much to opis clip for
+29:33
+sponsoring this video I really
+29:34
+appreciate you all thank you and once
+29:36
+again happy New Year 2025 is going to be
+29:38
+a fun one see you in the next video
+29:40
+bye-bye
+
